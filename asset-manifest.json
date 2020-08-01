@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/victorli7.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/victorli7.github.io/static/js/main.b06d4d24.chunk.js",
+    "main.js.map": "/victorli7.github.io/static/js/main.b06d4d24.chunk.js.map",
+    "runtime-main.js": "/victorli7.github.io/static/js/runtime-main.7d59ae45.js",
+    "runtime-main.js.map": "/victorli7.github.io/static/js/runtime-main.7d59ae45.js.map",
+    "static/js/2.30fb9625.chunk.js": "/victorli7.github.io/static/js/2.30fb9625.chunk.js",
+    "static/js/2.30fb9625.chunk.js.map": "/victorli7.github.io/static/js/2.30fb9625.chunk.js.map",
+    "index.html": "/victorli7.github.io/index.html",
+    "precache-manifest.01f064e7d0876dca7700b4cdd22c5110.js": "/victorli7.github.io/precache-manifest.01f064e7d0876dca7700b4cdd22c5110.js",
+    "service-worker.js": "/victorli7.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/victorli7.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.30fb9625.chunk.js.LICENSE.txt": "/victorli7.github.io/static/js/2.30fb9625.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/victorli7.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d59ae45.js",
+    "static/js/2.30fb9625.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b06d4d24.chunk.js"
+  ]
+}
